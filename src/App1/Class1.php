@@ -9,7 +9,7 @@ class Class1
         $var1 = 'var1';
         $var2 = 'var2';
 
-        //test
+        //test123
     }
 
     public function method2()
